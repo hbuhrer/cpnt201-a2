@@ -1,1 +1,2 @@
-# cpnt201-a2
+# CPNT201 - Assignment 2
+By Hendrich Buhrer and Renze Torres

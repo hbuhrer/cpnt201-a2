@@ -2,3 +2,8 @@ body {
     background-color: red;
     margin: 2rem;
 }
+
+h1 {
+    display: inline-block;
+    background-color: #333;
+}
